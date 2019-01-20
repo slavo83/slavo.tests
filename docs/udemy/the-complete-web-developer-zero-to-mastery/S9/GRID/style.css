@@ -1,6 +1,6 @@
 .container {
     display: grid;
-    grid-template-columns:
+    grid-template-columns: 1fr;
 }
 
 .zone {
